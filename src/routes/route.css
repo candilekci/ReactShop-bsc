@@ -1,0 +1,7 @@
+/* Ekran boyutu 1400 pikselden küçükse .route-screen gizlensin */
+@media screen and (max-width: 1430px) {
+    .route-screen {
+      display: none;
+    }
+  }
+  

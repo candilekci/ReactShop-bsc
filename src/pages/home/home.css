@@ -1,0 +1,18 @@
+.home{
+    padding: 10px;
+}
+.home-header{
+    font-size: 30px;
+    border-bottom: 1px solid #ccc;
+    width: 15%;
+}
+.home-products {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding-right: 10px;
+    
+}
+
+
+    

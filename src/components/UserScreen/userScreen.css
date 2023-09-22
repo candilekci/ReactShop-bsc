@@ -1,0 +1,28 @@
+.open-order-btn{
+    width: 90%;
+    margin-left: 5%;
+    margin-top: 15px;
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 30px;
+    border-radius: 5px;
+    cursor: pointer;
+    border: 1px solid #ccc;
+    font-size: large;
+    font-weight: bold;
+}
+.down-icon{
+    width: 25px;
+    height: auto;
+}
+
+.open-order-btn:hover{
+    background-color: #ccc;
+}
+
+.down-icon-active{
+    transform: rotate(180deg);
+}
+
